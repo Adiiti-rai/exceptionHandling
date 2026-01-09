@@ -2,7 +2,7 @@
 
 package Exception_related_questions;
 
-public class ArithmeticException extends Throwable {
+public class Arithmetic_Exception extends Throwable {
 
     public static void main() {
         int a = 10;
