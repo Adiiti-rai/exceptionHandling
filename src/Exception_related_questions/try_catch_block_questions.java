@@ -26,3 +26,7 @@ public class try_catch_block_questions {
         }
     }
 }
+
+//in try block ...one exception depends on other exception
+// if firstone occurs exception so
+// another one will not work.
